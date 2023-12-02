@@ -1,3 +1,6 @@
 .layout {
-  border: 1px solid red;
+  height: 100vh;
+  border: 2px solid red;
+  display: flex;
+  flex-direction: column;
 }
